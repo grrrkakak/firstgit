@@ -1,4 +1,4 @@
 Hello.
-It is insert mode now.
+This is git.
 
 Version2.
